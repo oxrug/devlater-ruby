@@ -6,7 +6,7 @@ However, after looking into it a bit, the following different scenarios seem to 
 
 - find all links to source code, which may be specified in multiple ways, may point to github, or may not, and may be links to other source code that's not necessarily relevant to the tutorial.
 
-- find all <code> tags in the document, and search through that for mentions of language-specific package terms (ie, for Ruby, search for 'gem' or 'Gemfile' or 'gem install').
+- find all code tags in the document, and search through that for mentions of language-specific package terms (ie, for Ruby, search for 'gem' or 'Gemfile' or 'gem install').
 
 - search through the text of the document to look for any mentions of language-specific package terms (ie, for Ruby, 'gem' or 'Gemfle' or 'gem install')
 
