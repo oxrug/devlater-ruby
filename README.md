@@ -10,7 +10,7 @@ However, after looking into it a bit, the following different scenarios seem to 
 
 - search through the text of the document to look for any mentions of language-specific package terms (ie, for Ruby, 'gem' or 'Gemfle' or 'gem install')
 
-...and even then, this doesn't account for situations in which the content is dynamically generated via javascript, or when the tutorial is spread across multiple pages, and some of the necessary dependencies aren't mentioned any later pages (I'm looking at you https://www.railstutorial.org)
+...and even then, this doesn't account for situations in which the content is dynamically generated via javascript, or when the tutorial is spread across multiple pages, and some of the necessary dependencies aren't mentioned until later pages (I'm looking at you https://www.railstutorial.org)
 
 ---
 
